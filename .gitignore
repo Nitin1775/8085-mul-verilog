@@ -1,0 +1,10 @@
+# Vivado / simulation artefacts — do not commit
+vivado_proj/
+*.vvp
+*.vcd
+*.log
+*.jou
+*.str
+sim/
+# OS
+.DS_Store
